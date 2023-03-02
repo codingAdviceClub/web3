@@ -9,13 +9,13 @@ what is blockchain?
 
 Ethereum History =>
 
-    A few years later, a man nammed Vitalik Buterin, realeased a white paper for new protocal named Aetherium, which use this same blockchain infrastructure wth an additional feature. And in 2015, him and other co founders realeased the project Aetherium , where people could not only make decentralized agreements, decentralized organizations, and all these otjher ways to interact with each other without a centalized intermediary or centralized governing force.
+    A few years later, a man nammed Vitalik Buterin, realeased a white paper for new protocal named Ethereum, which use this same blockchain infrastructure wth an additional feature. And in 2015, him and other co founders realeased the project Ethereum , where people could not only make decentralized agreements, decentralized organizations, and all these otjher ways to interact with each other without a centalized intermediary or centralized governing force.
 
     Basically, there idea was to take this thing that nade Bitcoin so great, and add decenralized agreements to it, or smart contracts. And in fact technically, these smart contracts were't even really a new idea. Back in 1994, a man named Nick Szabo, had actually originall come up with the idea.
 
 Smart contracts =>
 
-    Smart contracts are a set of instructions executed in decentralized way without the need for centralied or third party intremediary to run them. and they come to life on these blockchains, or these smart contract platforms, like Aetherium. And it's the smart contracts that are going to be the core thing that we are going to developing in web3.
+    Smart contracts are a set of instructions executed in decentralized way without the need for centralied or third party intremediary to run them. and they come to life on these blockchains, or these smart contract platforms, like Ethereum. And it's the smart contracts that are going to be the core thing that we are going to developing in web3.
 
     You can think of smart contracts in the same way you think of traditional contracts or traditional aggrements b/w parties. They're just set of instructionsb/w parties, except instead of writen on pen and aper or typed up in Microsoft Word, they are written in code and embodied on these decentarlized blockchain platforms. And that's also where they're exiuted.
 
@@ -33,14 +33,15 @@ Oracle's =>
     (DAP = Decenralized Protocal or smart contract protocal)
     A decenralized applications is usually the combination of many smart contracts.
 
-History of WEB =>
+History of web =>
     web1 => 
         the permissionless open source web with static content.
 
     web2 =>
         the permissioned web. with dynamic content. Where companies run your aggrements on their centralized servers.
 
-    web3 => the permissionless web, with dynamic content. where decenralizedcensorship resistant network runs you agreements and code. It generally is accompanied by the idea of user owned ecosystems, where the protocols you interact with you also own a portion of, instead of solely being the product.
+    web3 =>
+        the permissionless web, with dynamic content. where decenralizedcensorship resistant network runs you agreements and code. It generally is accompanied by the idea of user owned ecosystems, where the protocols you interact with you also own a portion of, instead of solely being the product.
 
 
 
