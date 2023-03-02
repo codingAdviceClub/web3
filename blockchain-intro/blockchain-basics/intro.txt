@@ -1,3 +1,47 @@
-what is blockcain ?
+what is blockchain?
 
-=> 
+    Blockchain is a distributed digital ledger technology that records and stores data in a secure, immutable, and decentralized manner. It is a chain of blocks that contain information about transactions, such as the date, time, and amount of the transaction. Each block also contains a cryptographic hash of the previous block, linking them together in an immutable chain.
+
+    Blockchain technology has been used to create digital currencies such as Bitcoin and Ethereum. These digital currencies are secured by blockchain technology and can be used to make payments or store value. Blockchain technology can also be used to create smart contracts, which are self-executing contracts that can be used to automate certain processes or transactions.
+
+    For example, a smart contract could be used to automatically transfer funds from one party to another when certain conditions are met. This could be used for things like insurance claims or loan payments. Another example is using blockchain technology for supply chain management. Companies can use blockchain technology to track the movement of goods from one point in the supply chain to another, ensuring that goods are not lost or stolen along the way.
+    more details in bitcoin wghite paper.
+
+Ethereum History =>
+
+    A few years later, a man nammed Vitalik Buterin, realeased a white paper for new protocal named Aetherium, which use this same blockchain infrastructure wth an additional feature. And in 2015, him and other co founders realeased the project Aetherium , where people could not only make decentralized agreements, decentralized organizations, and all these otjher ways to interact with each other without a centalized intermediary or centralized governing force.
+
+    Basically, there idea was to take this thing that nade Bitcoin so great, and add decenralized agreements to it, or smart contracts. And in fact technically, these smart contracts were't even really a new idea. Back in 1994, a man named Nick Szabo, had actually originall come up with the idea.
+
+Smart contracts =>
+
+    Smart contracts are a set of instructions executed in decentralized way without the need for centralied or third party intremediary to run them. and they come to life on these blockchains, or these smart contract platforms, like Aetherium. And it's the smart contracts that are going to be the core thing that we are going to developing in web3.
+
+    You can think of smart contracts in the same way you think of traditional contracts or traditional aggrements b/w parties. They're just set of instructionsb/w parties, except instead of writen on pen and aper or typed up in Microsoft Word, they are written in code and embodied on these decentarlized blockchain platforms. And that's also where they're exiuted.
+
+    This is the main diffrence b/w Ethereum protocol and Bitcoin protocal. technically, bitcoin does have smart contracts, but they're intentionally Turing incomplete which means they won't have all the functinality that a proraming language would give them. this was intentinal move by Bitcoin developers. Bitcoin developers viewed Bitcoin as a store of value. VS Ethereum, developers viewed Ethereum as both a store of value and a utility to facitate these decenralized aggrements.
+
+Oracle's =>
+    Oracle's are any device that delivers data to these decenralized blockchain or runs external computaion. Howeverif we want our applications to saty truly decenralized, we can't work with single Oracle or single data provider or single source that's running these external computaions. so we need a decenralized Oracle network . Similar to our decenralized blockchain network, you're on chain logic will be decenralized, but you also need your off chain data on computaion decenralized, combining this on chain decenralized logic with this off chain, decenralizeddata and decenralized computaion gives rise to something called hybrid smart contracts.
+    (hybrid smart contracts = On-Chain + Off Chain agreements)
+    And most of the biggest protocols that we interact with today are some of hybrid smart contract.
+
+    This is where the protocol chaining comes to play. it is a modular, decenralized Oracle network that can both bring external data and external computation in to our smart contracts to make sure they're decenralized end to end, while giving them the feature richness that we need for our agreements.
+
+    Since the theorems release, a number of diffrent blockchains or smart contract oplatforms have come to light such as a Avalanche, Polygo, Phantom harmony, and more. Similarly chainlink is the most popular and powerful decenralized Oracle network. chainlink is also blockchain agnostic.
+
+    (DAP = Decenralized Protocal or smart contract protocal)
+    A decenralized applications is usually the combination of many smart contracts.
+
+History of WEB =>
+    web1 => 
+        the permissionless open source web with static content.
+
+    web2 =>
+        the permissioned web. with dynamic content. Where companies run your aggrements on their centralized servers.
+
+    web3 => the permissionless web, with dynamic content. where decenralizedcensorship resistant network runs you agreements and code. It generally is accompanied by the idea of user owned ecosystems, where the protocols you interact with you also own a portion of, instead of solely being the product.
+
+
+
+
